@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885094949700",
+    "project_id": "career-campus-96c21",
+    "storage_bucket": "career-campus-96c21.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885094949700:android:3ae76beaf63b52c25f6d11",
+        "android_client_info": {
+          "package_name": "com.example.career_campus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorxyO9jPHFoX9gIKOttSmhUh-aYlinQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
